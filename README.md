@@ -1,0 +1,2 @@
+# Comfyui_NanGuangAI_Packaging_Tips
+Comfyui_NanGuangAI_Packaging_Tips  南光AI包装提示词模板一键生成商业级包装设计提示词！
